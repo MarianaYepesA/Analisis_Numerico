@@ -2,7 +2,7 @@ import numpy as np
 import math 
 
 def g(x):
-    f=(((np.exp(x+1))-(7*(x**2))+2)/(4))
+    f=0 #acá se pone la función
     return f
 
 def puntofijo(x0,tolerancia,iter):
