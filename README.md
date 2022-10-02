@@ -1,4 +1,4 @@
-###Proyecto de implementación para métodos numéricos
+Proyecto de implementación para métodos numéricos
 ------------
 - Mariana Yepes A.
 - Juan J. Sánchez S.
