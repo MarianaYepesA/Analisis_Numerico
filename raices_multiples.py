@@ -1,13 +1,13 @@
 
 import numpy as np
 def f(x):
-    f=np.exp(x-2)-np.log(x-1)-(x**2)+(4*x)-5
+    f=0 #acá se pone la función
     return f
 def derx(x):
-    derx=np.exp(x-2)-(1/(x-1))-2*x+4
+    derx=0 #acá se pone la primera derivada
     return derx
 def der2x(x):
-    der2x=np.exp(x-2)+(1/((x+1)**2))-2
+    der2x=0 #acá se pone la segunda derivada
     return der2x
 
 x0 = float(input("Aproximacion inicial x0: "))
