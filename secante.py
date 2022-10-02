@@ -1,8 +1,7 @@
 import numpy as np
 
 def f(x):
-    #f=np.exp(3*x-12)+x*np.cos(3*x)-x**2+4
-    f=14.2*np.tan(x)-((6.4*((14.2)**2))/((2*(25.4)**2)*((np.cos(x))**2)))
+    f=0 #acá se pone la función
     return f
     
 iter = int(input("Iteraciones= "))
